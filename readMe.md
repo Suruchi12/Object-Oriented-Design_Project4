@@ -1,4 +1,4 @@
-# Remote Code Repository
+# Remote Code Publisher
 
 #### Object Oriented Design
 #### CSE 687
