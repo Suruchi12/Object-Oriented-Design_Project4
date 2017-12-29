@@ -1,0 +1,1 @@
+devenv CodeRepository.sln /rebuild Debug
